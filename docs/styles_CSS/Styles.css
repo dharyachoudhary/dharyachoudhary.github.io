@@ -1,15 +1,46 @@
-/* styles.css */
-p {
-    color: red;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 
-
-/* Styling for the .great-vibes-regular class */
-
-
+  h1 {
+    color : #3DF0FA;
+    font-size: 50px;
 }
 
+h2 {
+    color: #2736D7;
+    font-size : 40px;
+}
+
+h3 {
+    color : #ffff03;
+    font-size : 37px;
+    
+}
   
-li {
-    color : chocolate;
+p {
+    color: orangered;
+    font-family: Dancing Script;
+    font-size: 30px;
+}
+  
+ol {
+    font-size: 35px;
+    color : #05ff0d;
+    text-align: justify;
+    
 }
 
+ul {
+    font-size: 32px;
+    color: #05cdff;
+    text-align: justify;
+}
+
+html {
+    background-color: #7890D3;
+  }
+  
