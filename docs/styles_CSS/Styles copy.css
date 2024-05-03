@@ -43,11 +43,17 @@ ul {
 html {
     background-color: #7890D3;
   }
+  
+  body {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 0 25px 25px 25px;
+  }
 
   article{
     width: 1000px;
     margin: 0 auto;
-
+    
     padding: 0 25px 25px 25px;
     border: 6px solid #1B0A37;
   }
